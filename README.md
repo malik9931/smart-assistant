@@ -29,7 +29,7 @@ A desktop-based intelligent assistant built with Python and Tkinter. It understa
 ├── llm_handler.py        # Communicates with OpenAI or Gemini
 ├── assistant_log.txt     # Local log of actions and responses
 └── requirements.txt      # Required dependencies
-
+```
 
 🚀 How to Run
 Install Python 3.8 or above.
