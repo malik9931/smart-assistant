@@ -1,0 +1,7 @@
+openai
+google-generativeai
+tk
+pyaudio ; if needed for voice features
+pycaw ; if using volume control on Windows
+pyautogui ; for screenshot, brightness
+screen_brightness_control ; for brightness (Windows)
